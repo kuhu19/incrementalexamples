@@ -1,5 +1,5 @@
 
-Basic Coding conventions
+Basic Coding Tips
 
 --You must write a clear, concise comment at the top of every class telling what one object of the class represents, stores and manipulates.
 --Also, you must write a comment for every method telling what that method does with th object and with its parameters.
