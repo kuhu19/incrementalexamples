@@ -1,9 +1,8 @@
 package examples;
 
 public class VariableExample {
-	
 	public static void main(String[] args) {
-		//common way to declare and initialize variable
+		//declaring and initializing primitive variables together
 		byte b = 100;
 		short s = 1000;
 		int i = 10000;
@@ -18,7 +17,5 @@ public class VariableExample {
 		//how to combine declaration of variables
 		int e1,e2,e3,e4;
 		e1=15;
-
 	}
-
 }
