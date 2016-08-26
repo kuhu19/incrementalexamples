@@ -1,6 +1,6 @@
-#include <stdio.h>
+/*Hello World Example */
 
-/*Hello World program*/
+#include <stdio.h>
 int main(){
 	printf("Hello");
 	getchar();
